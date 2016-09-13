@@ -22,3 +22,6 @@ cp -r ./front/angularApp2/img $WEB_PATH
 cp -r ./front/angularApp2/libs $WEB_PATH
 cp -r ./front/angularApp2/index_share.html $WEB_PATH
 echo "拷贝完成!!!"
+
+
+
